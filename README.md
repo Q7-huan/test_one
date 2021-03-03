@@ -1,3 +1,1 @@
-# test_one
-learn and test how to create a repository
-# Mack down的书写格式
+Java的一些算法题目和学习
